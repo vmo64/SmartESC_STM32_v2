@@ -126,3 +126,4 @@ Can read it in "VESC Terminal" (or others Serial Terminal)
 - ... (lot of other commands)
 - 
 
+h
