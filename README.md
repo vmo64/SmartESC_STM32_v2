@@ -124,3 +124,5 @@ Can read it in "VESC Terminal" (or others Serial Terminal)
 - help (see all available commands)
 - foc_openloop [current] [erpm]  (Exemple : foc_openloop 10 500)
 - ... (lot of other commands)
+- 
+
